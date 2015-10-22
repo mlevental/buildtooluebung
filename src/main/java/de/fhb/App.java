@@ -1,7 +1,7 @@
 package de.fhb;
 
 /**
- * Hello world!
+ * Hello world output
  *
  */
 public class App {
